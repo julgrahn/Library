@@ -1,0 +1,13 @@
+C:\Users\Alexa.DESKTOP-N1BFAKT\source\repos\NTI-Skolan\Library\Library\bin\Debug\netcoreapp3.1\Library.exe
+C:\Users\Alexa.DESKTOP-N1BFAKT\source\repos\NTI-Skolan\Library\Library\bin\Debug\netcoreapp3.1\Library.deps.json
+C:\Users\Alexa.DESKTOP-N1BFAKT\source\repos\NTI-Skolan\Library\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.json
+C:\Users\Alexa.DESKTOP-N1BFAKT\source\repos\NTI-Skolan\Library\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.dev.json
+C:\Users\Alexa.DESKTOP-N1BFAKT\source\repos\NTI-Skolan\Library\Library\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\Alexa.DESKTOP-N1BFAKT\source\repos\NTI-Skolan\Library\Library\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\Alexa.DESKTOP-N1BFAKT\source\repos\NTI-Skolan\Library\Library\obj\Debug\netcoreapp3.1\Library.csprojAssemblyReference.cache
+C:\Users\Alexa.DESKTOP-N1BFAKT\source\repos\NTI-Skolan\Library\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfoInputs.cache
+C:\Users\Alexa.DESKTOP-N1BFAKT\source\repos\NTI-Skolan\Library\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfo.cs
+C:\Users\Alexa.DESKTOP-N1BFAKT\source\repos\NTI-Skolan\Library\Library\obj\Debug\netcoreapp3.1\Library.csproj.CoreCompileInputs.cache
+C:\Users\Alexa.DESKTOP-N1BFAKT\source\repos\NTI-Skolan\Library\Library\obj\Debug\netcoreapp3.1\Library.dll
+C:\Users\Alexa.DESKTOP-N1BFAKT\source\repos\NTI-Skolan\Library\Library\obj\Debug\netcoreapp3.1\Library.pdb
+C:\Users\Alexa.DESKTOP-N1BFAKT\source\repos\NTI-Skolan\Library\Library\obj\Debug\netcoreapp3.1\Library.genruntimeconfig.cache
